@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmgcoder&label=Profile%20views&color=0e75b6&style=flat" alt="dmgcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmgcoder" alt="dmgcoder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urbankrepel" alt="dmgcoder" /></a> </p>
 
 - 📫 How to reach me **urban.kreppel@gmail.com**
 
